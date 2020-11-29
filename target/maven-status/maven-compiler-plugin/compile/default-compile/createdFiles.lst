@@ -1,0 +1,14 @@
+com\pascualbravo\donayuda\controller\FunadacionesController.class
+com\pascualbravo\donayuda\service\impl\DonantesServiceImpl.class
+com\pascualbravo\donayuda\service\iface\FundacionesService.class
+com\pascualbravo\donayuda\controller\DonantesController.class
+com\pascualbravo\donayuda\models\entity\Fundaciones.class
+com\pascualbravo\donayuda\DonayudaAplication.class
+com\pascualbravo\donayuda\models\repositorio\FundacionesRepository.class
+com\pascualbravo\donayuda\models\entity\Donantes.class
+com\pascualbravo\donayuda\service\iface\TipoDonacionService.class
+com\pascualbravo\donayuda\models\repositorio\DonantesRepository.class
+com\pascualbravo\donayuda\service\iface\DonantesService.class
+com\pascualbravo\donayuda\models\entity\TipoDonacion.class
+com\pascualbravo\donayuda\models\repositorio\TipoDonacionRepository.class
+com\pascualbravo\donayuda\service\impl\FundacionesServiceImpl.class
